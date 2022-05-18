@@ -1,7 +1,7 @@
 # Hi there, I'm Semih Turan 👋
 
 ## I'm a Husband, Developer, and Engineer!!
-- 🌱 I’m currently learning Data Science 🤣
+- 🌱 I’m currently learning Cyber Security 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about machine learning
 - ⚡ Fun fact: I love to play a video game and using flight simulation  
