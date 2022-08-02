@@ -1,25 +1,33 @@
-# Hi there, I'm Semih Turan 👋
+<h1 align="center">Hi 👋, I'm Semih Turan</h1>
+<h3 align="center">Husband, Developer and Engineer</h3>
 
-## I'm a Husband, Developer, and Engineer!!
-- 🌱 I’m currently learning Cyber Security 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about machine learning
-- ⚡ Fun fact: I love to play a video game and using flight simulation  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=semih-turan&label=Profile%20views&color=0e75b6&style=flat" alt="semih-turan" /> </p>
 
-### Connect with me:
-<a href="https://www.linkedin.com/in/turansemih/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/turansemih/" height="30" width="40" /></a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=semih-turan" alt="semih-turan" /></a> </p>
 
-### Languages and Tools:
-<a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+- 🔭 I’m currently working on **HTML, CSS,Bootstrap and Javascript**
 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />
+- 🌱 I’m currently learning **react**
 
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+- 🤝 I’m looking for help with **react**
 
-<a href="https://github.com/semih-turan" target="_blank"><img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+- 💬 Ask me about **react.**
 
-<a href="https://git-scm.com/" target="_blank"><img align="left" alt="GitHub" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="padding-right:10px;" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/turansemih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="turansemih" height="30" width="40" /></a>
+<a href="https://discord.gg/711-Turan#4310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="711-Turan#4310" height="30" width="40" /></a>
+</p>
 
-<a href="https://app.patika.dev/rumeysayurtseven" target="blank"><img align="left" alt="Semih-Turan Patika.dev" width="26px" src="https://uploads-ssl.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo.png" style="padding-right:10px;" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<a href="https://www.jupyter.org" target="_blank"><img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/semihturan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="semihturan" /></a></p><br><br>
+<p></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=semih-turan&show_icons=true&locale=en&layout=compact" alt="semih-turan" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=semih-turan&show_icons=true&locale=en" alt="semih-turan" /></p>
+<p></p>
+<p></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=semih-turan&" alt="semih-turan" /></p>
