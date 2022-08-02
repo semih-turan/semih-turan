@@ -5,13 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=semih-turan" alt="semih-turan" /></a> </p>
 
-- 🔭 I’m currently working on **HTML, CSS,Bootstrap and Javascript**
+- 🔭 I’m currently working on PatikaDev Bootcamp Acceleration Program
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **Javascript**
 
-- 🤝 I’m looking for help with **react**
+- 🤝 I’m looking for help with **Javascript**
 
-- 💬 Ask me about **react.**
+- 💬 Ask me about **Javascript**
+- ⚡ About me I was an aerospace engineer, currently trying to be a software developer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
