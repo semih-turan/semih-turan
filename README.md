@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=semih-turan" alt="semih-turan" /></a> </p>
 
-- 🔭 I’m currently working on PatikaDev Bootcamp Acceleration Program
+- 🔭 I’m currently working on **Kodluyoruz WFP React Native Bootcamp**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React Native**
 
-- 🤝 I’m looking for help with **Javascript**
+- 🤝 I’m looking for help with **Javascript & React Native**
 
 - 💬 Ask me about **Javascript**
 - ⚡ About me I was an aerospace engineer, currently trying to be a software developer.
