@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Semih Turan</h1>
 <h3 align="center">Husband, Developer and Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=semih-turan&label=Profile%20views&color=0e75b6&style=flat" alt="semih-turan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=semih-turan" alt="semih-turan" /></a> </p>
-
 - 🔭 I’m currently working on **Kodluyoruz WFP React Native Bootcamp**
 
 - 🌱 I’m currently learning **React Native**
@@ -12,7 +8,17 @@
 - 🤝 I’m looking for help with **Javascript & React Native**
 
 - 💬 Ask me about **Javascript**
+
 - ⚡ About me I was an aerospace engineer, currently trying to be a software developer.
+
+
+   ![alt text](https://media0.giphy.com/media/Zd1A2Lm1FF9cK0GRyf/giphy.gif?cid=790b761143f417d9653a717d8bbc9238033e9c3d0c7ced57&rid=giphy.gif&ct=g)
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,10 +31,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/semihturan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="semihturan" /></a></p><br><br>
-<p></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=semih-turan&show_icons=true&locale=en&layout=compact" alt="semih-turan" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=semih-turan&show_icons=true&locale=en" alt="semih-turan" /></p>
-<p></p>
-<p></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=semih-turan&" alt="semih-turan" /></p>
