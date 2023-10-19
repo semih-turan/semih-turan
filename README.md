@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Semih Turan</h1>
-<h3 align="center">Husband, Developer and Engineer</h3>
+<h3 align="center">Dad, Developer and Engineer</h3>
 
-- 🔭 I’m currently working on **Kodluyoruz WFP React Native Bootcamp**
+- 🔭 I’m currently working on **'The' Web Application**
 
 - 🌱 I’m currently learning **React Native**
 
