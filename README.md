@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **'The' Web Application**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Java**
 
 - 🤝 I’m looking for help with **Javascript & React Native**
 
