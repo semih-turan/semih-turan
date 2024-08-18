@@ -87,4 +87,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=semih-turan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=semih-turan&color=blue"  />
+</div>
+
 ###
